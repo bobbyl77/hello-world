@@ -1,2 +1,2 @@
 # hello-world
-this is my reepository
+i am robert loring and this is my repository
